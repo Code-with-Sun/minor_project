@@ -9,7 +9,8 @@
     <?php
         echo "Hello World"
         echo "Chinmoy Saini"
-        echo "SUndar Samanta"
+        echo "Sundar Samanta"
+        echo "Rajdip Das"
     ?>
 </body>
 </html>
